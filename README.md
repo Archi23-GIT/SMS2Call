@@ -19,3 +19,19 @@ Usually on Android, the user would have to do the following:
 - Write an SMS to the recipient's address
 
 The application simplifies these procedures to click the last number call and that's all. 
+
+Version info:
+v1.7.1
+New ListView added
+
+v1.6
+Visual corrections
+
+v1.5
+The option of selecting the type of information in the connection log has been added
+
+v1.4
+Information about the privacy policy has been added with the necessity of giving consent
+
+v1.3
+The application is intended for service providers who use telephone connections (many) in contact with customers with feedback via SMS. SMS2Call allows you to send a standardized SMS to the clinics you talked to.

@@ -21,6 +21,7 @@ Usually on Android, the user would have to do the following:
 The application simplifies these procedures to click the last number call and that's all. 
 
 Version info:
+
 v1.7.1
 New ListView added
 

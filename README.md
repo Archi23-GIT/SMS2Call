@@ -22,6 +22,11 @@ The application simplifies these procedures to click the last number call and th
 
 Version info:
 
+v1.9
+Added support for more than one SMS,
+The ability to edit the SMS and adjust the quantity to your needs has been added,
+Selecting the customer number from the list opens the SMS list with the option to choose the type of SMS to send.
+
 v1.8
 The number of connections from the call register has been increased
 
